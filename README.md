@@ -4,7 +4,7 @@ Vedio Demo:
 https://youtu.be/85bpFAoGa_o
 https://youtu.be/UE6CqbUY_yA
 
-I created a 2d game using Unity, Human try to find the spider(player).
+I created a 2d game using Unity. Human try to find the spider(player) and kill it.
 The spider takes damage when it collided with the spider.
 The spider also can take damage back to the human when they collied.
 
